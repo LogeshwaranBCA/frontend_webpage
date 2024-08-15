@@ -1,6 +1,10 @@
+Amazon_clone          -   https://logeshwaranbca.github.io/Amazon_clone/
+
 flipping_card_design  -   https://logeshwaranbca.github.io/flipping_card_design/
 
 coffee_website        -   https://logeshwaranbca.github.io/coffee_website/
+
+Google_loader         -    https://logeshwaranbca.github.io/Google_loader/
 
 3D_Layer              -   https://logeshwaranbca.github.io/3D_Layer/
 
@@ -28,3 +32,10 @@ responsive_login_form -   https://logeshwaranbca.github.io/responsive_login_form
 
 Credit_card           -   https://logeshwaranbca.github.io/Credit_card/
 
+Login_form 2          -   https://logeshwaranbca.github.io/login_form_2/
+
+Mars-animated-landing-page - https://logeshwaranbca.github.io/Mars-animated-landing-page/
+
+Glowing_bulb_effect   -   https://logeshwaranbca.github.io/Glowing_bulb_effect/
+
+Contact_us_form       -    https://logeshwaranbca.github.io/Contact_us_form/
